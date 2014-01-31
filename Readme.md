@@ -5,6 +5,8 @@
 
 
 Click different areas to control your character!
+
+
 ![](https://raw.github.com/SquareLi/Platformer-Demo/master/abc.jpg)
 
 
